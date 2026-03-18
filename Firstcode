@@ -1,0 +1,60 @@
+//내 초기 코드야.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>인천서구광명교회 | KMPC</title>
+    <meta name="description" content="인천서구광명교회 KMPC 공식 홈페이지입니다. 예배 안내, 교회 소식, 사역 소개.">
+    <meta name="keywords" content="인천서구광명교회, KMPC, 광명교회, 인천 교회">
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        main {
+            padding: 2rem;
+            text-align: center;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>인천서구광명교회</h1>
+        <p style="font-size: 14px; color: #ccc; margin-top: 0.5rem;">
+            Welcome to our KMPC homepage!
+        </p>
+    </header>
+    <main>  
+        <img src="father.jpeg" alt="Main Picture" style="max-width: 50%; height: auto; margin-bottom: 1rem;">
+        <p style="font-family: 'Georgia', serif; font-size: 20px; color: #333;"></p>
+        <p>Hi, 
+        </p> This is the main content of the homepage.</p>
+    </main>
+    <footer>
+        <p>
+            <img src="pred.png" alt="Logo" style="width: 30px; height: 30px; vertical-align: middle; margin-right: 10px;">
+            인천광명교회 | 서구 가석로 268-1 | 신대호 목사 | 문의 032-573-0526
+        </p>
+    </footer>
+</body>
+</html>
